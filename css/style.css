@@ -1,3 +1,7 @@
 body {
   background-color: rgb(243, 232, 216);
 }
+
+header {
+  text-align: center;
+}
