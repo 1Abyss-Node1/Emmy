@@ -11,12 +11,13 @@ body {
 
 header {
   text-align: center;
+  background-color: #4a61c5;
   background-image: url(/Emmy-Images/Emmy\ background\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-color: #4a61c5;
   padding: 20px;
+  background-size: auto;
 }
 
 header img {
