@@ -16,6 +16,6 @@ header {
 header img {
   width: 300px;
   height: 300px;
-  border: 20px solid (163, 109, 201);
+  border: 20px solid rgb(163, 47, 163);
   border-radius: 50%;
 }
