@@ -81,6 +81,23 @@ main img {
 }
 
 footer {
+  background-color: #84709e;
+  padding: 20px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+footer .content {
   width: 800px;
   margin: 0 auto;
+}
+
+footer .content a:hover {
+  color: #1e6e2950;
+}
+footer .content a:active {
+  color: #2faa63;
+}
+footer .content a:visited {
+  color: #ac1515;
 }
