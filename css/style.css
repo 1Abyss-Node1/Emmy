@@ -71,6 +71,10 @@ header .Pfp.Aria {
   margin: 0 auto;
 }
 
+header.aria-header {
+  background-image: url("../Aria-Images/Aria-Banner.jpg");
+}
+
 @media (max-width: 600px) {
   h1 {
     font-size: 50px;
