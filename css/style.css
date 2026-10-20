@@ -59,12 +59,16 @@ header img {
   box-sizing: border-box;
 }
 
-header .pfp.Aria {
+header .Pfp.Aria {
   background-image: url("../Aria-Images/Aria-Pfp.jpg");
   background-size: cover;
   background-position: 0px 0px;
   border: 20px solid rgb(194, 82, 134);
   border-radius: 50%;
+  width: min(300px, 100%);
+  aspect-ratio: 1;
+  box-sizing: border-box;
+  margin: 0 auto;
 }
 
 @media (max-width: 600px) {
