@@ -59,6 +59,14 @@ header img {
   box-sizing: border-box;
 }
 
+header .pfp.Aria {
+  background-image: url("../Aria-Images/Aria-Pfp.jpg");
+  background-size: cover;
+  background-position: 0px 0px;
+  border: 20px solid rgb(194, 82, 134);
+  border-radius: 50%;
+}
+
 @media (max-width: 600px) {
   h1 {
     font-size: 50px;
